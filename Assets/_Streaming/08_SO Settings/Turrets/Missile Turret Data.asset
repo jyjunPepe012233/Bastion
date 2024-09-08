@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2f81d1d9a4f4d34877cae4e481fd72, type: 3}
+  m_Name: Missile Turret Data
+  m_EditorClassIdentifier: 
+  name: "\uBBF8\uC0AC\uC77C \uD130\uB81B"
+  creditCost: 30
+  turret: {fileID: 5536724846185615891, guid: 13bb8a8843d0840369d11be80ae5ad42, type: 3}
+  previewObject: {fileID: 3575760815433036278, guid: 8f4eb539201604920af40688f9e951f7,
+    type: 3}

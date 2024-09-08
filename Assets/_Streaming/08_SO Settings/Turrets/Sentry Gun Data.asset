@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2f81d1d9a4f4d34877cae4e481fd72, type: 3}
+  m_Name: Sentry Gun Data
+  m_EditorClassIdentifier: 
+  name: "\uC13C\uD2B8\uB9AC \uD3EC\uD0D1"
+  creditCost: 12
+  turret: {fileID: 9075687442629636754, guid: 715d3db94406d4db8aefa930b624fd12, type: 3}
+  previewObject: {fileID: 1887486551386917948, guid: e0b384537bd24460b8212d9e1260d492,
+    type: 3}

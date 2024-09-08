@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb338f05f654648a409d59bc842a4b1, type: 3}
+  m_Name: 2 Wave Data
+  m_EditorClassIdentifier: 
+  sceneName: Mars 1
+  mapName: "\uB9C9\uB2E4\uB978 \uACE8\uC9DC\uAE30 \uAE30\uC2AD 2"
+  image: {fileID: 21300000, guid: 8167243e35435427f946008dd01123b3, type: 3}
+  enemyInfo: 'SwarmBee
+
+    Creeper
+
+    TurtleShell
+
+    Beholder
+
+'
+  storyInfo: "\uCD94\uB77D\uD558\uB294 \uC6B0\uC8FC\uC120\uC744 \uD544\uC0AC\uC801\uC73C\uB85C
+    \uC870\uC885\uD558\uC5EC \uCC29\uB959\uD55C \uACF3\uC740 \uB9C9\uB2E4\uB978 \uACE8\uC9DC\uAE30\uC600\uC2B5\uB2C8\uB2E4.\n\n\uC0B4\uC544\uB0A8\uC73C\uC138\uC694!"
+  maxGameTime: 690
+  waveDatas:
+  - waveTime: 90
+    enemyData:
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 7
+      spawnTiming: 0.1
+    - prefab: {fileID: 8094959213407296419, guid: 82abdc7bc6ebc4bb5833c8a437849167,
+        type: 3}
+      spawnCount: 4
+      spawnTiming: 0.7
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 8
+      spawnTiming: 0.75
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 4
+      spawnTiming: 0.75
+  - waveTime: 180
+    enemyData:
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 3
+      spawnTiming: 0.75
+    - prefab: {fileID: 7315402591932561286, guid: 67df53353057340ebaba4f96c250209b,
+        type: 3}
+      spawnCount: 2
+      spawnTiming: 0.8
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 6
+      spawnTiming: 0.825
+    - prefab: {fileID: 8094959213407296419, guid: 82abdc7bc6ebc4bb5833c8a437849167,
+        type: 3}
+      spawnCount: 2
+      spawnTiming: 0.825
+  - waveTime: 180
+    enemyData:
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 9
+      spawnTiming: 0.75
+    - prefab: {fileID: 7315402591932561286, guid: 67df53353057340ebaba4f96c250209b,
+        type: 3}
+      spawnCount: 1
+      spawnTiming: 0.8
+    - prefab: {fileID: 8094959213407296419, guid: 82abdc7bc6ebc4bb5833c8a437849167,
+        type: 3}
+      spawnCount: 4
+      spawnTiming: 0.825
+    - prefab: {fileID: 8094959213407296419, guid: 82abdc7bc6ebc4bb5833c8a437849167,
+        type: 3}
+      spawnCount: 2
+      spawnTiming: 0.825
+  - waveTime: 240
+    enemyData:
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 8
+      spawnTiming: 0.9
+    - prefab: {fileID: 7315402591932561286, guid: 67df53353057340ebaba4f96c250209b,
+        type: 3}
+      spawnCount: 2
+      spawnTiming: 0.925
+    - prefab: {fileID: 8094959213407296419, guid: 82abdc7bc6ebc4bb5833c8a437849167,
+        type: 3}
+      spawnCount: 4
+      spawnTiming: 0.95
+    - prefab: {fileID: 5644101382129867649, guid: f79c5c5403ca8480897d9cafc034e7f0,
+        type: 3}
+      spawnCount: 5
+      spawnTiming: 0.9
+    - prefab: {fileID: 6411597883682326276, guid: 15007d5c64f994065b4086a8ff1ba124,
+        type: 3}
+      spawnCount: 10
+      spawnTiming: 0.975

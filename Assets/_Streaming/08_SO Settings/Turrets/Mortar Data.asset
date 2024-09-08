@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2f81d1d9a4f4d34877cae4e481fd72, type: 3}
+  m_Name: Mortar Data
+  m_EditorClassIdentifier: 
+  name: "\uBC15\uACA9\uD3EC"
+  creditCost: 24
+  turret: {fileID: 2989381819351820653, guid: 68964756852e34f7b9e066fc92b9ad94, type: 3}
+  previewObject: {fileID: 7586317150400073614, guid: f7cf6c2a8099b4087ac380166733aee7,
+    type: 3}
